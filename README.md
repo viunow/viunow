@@ -1,38 +1,84 @@
-# Vinícius Neto
+# Hey, I'm Vinícius Neto 👋
 
-**Full Stack Developer** focado em construir produtos reais — de interfaces limpas até pipelines que não quebram às 3h da manhã.
+**Full Stack Developer** building real products, from clean UIs to backends that don't crash at 3am.
 
-Trabalho principalmente com **React**, **Next.js** e **TypeScript** no front, **NestJS** e **Golang** no back, e **PostgreSQL** pra persistência. Tenho afinidade crescente com infraestrutura: Docker, CI/CD, Linux e tudo que faz o deploy ser menos uma roleta russa.
-
----
-
-## Stack atual
-
-**Frontend**  
-React · Next.js · TypeScript · Tailwind CSS
-
-**Backend**  
-NestJS · Golang · Node.js · REST
-
-**Banco de dados**  
-PostgreSQL · Prisma
-
-**Infra & DevOps**  
-Docker · GitHub Actions · Linux · Nginx
+I work mainly with **React**, **Next.js** and **TypeScript** on the front end, **NestJS** and **Golang** on the back end, and **PostgreSQL** for persistence. Growing interest in infrastructure: Docker, CI/CD, Linux and everything that makes deployments boring (in a good way).
 
 ---
 
-## O que estou construindo agora
+## 🧑‍💻 A little more about me...
 
-- **[fh6-telemetry](https://github.com/viunow/fh6-telemetry)** — receptor de telemetria UDP para Forza Horizon 6, com dashboard ao vivo no browser. Stack: Node.js, WebSocket, Chart.js.
+```json
+{
+  "name": "Vinícius Neto",
+  "username": "viunow",
+  "location": "Brazil 🇧🇷",
+  "role": "Full Stack Developer",
+  "company": "Valorizza",
+  "website": "https://viniciusneto.dev",
+  "currentlyBuilding": "fh6-telemetry (Forza Horizon 6 UDP telemetry dashboard)",
+  "learning": ["DevOps", "Golang deeper patterns", "system design"],
+  "askMeAbout": ["React", "Next.js", "TypeScript", "NestJS", "Golang", "PostgreSQL"],
+  "technologies": {
+    "frontend": {
+      "frameworks": ["React", "Next.js"],
+      "styling": ["Tailwind CSS"],
+      "language": ["TypeScript"]
+    },
+    "backend": {
+      "node": ["NestJS", "Node.js"],
+      "go": ["Golang"],
+      "api": ["REST"]
+    },
+    "databases": {
+      "relational": ["PostgreSQL"],
+      "orm": ["Prisma"]
+    },
+    "devOps": {
+      "tools": ["Docker", "Nginx", "GitHub Actions"],
+      "os": ["Linux"]
+    }
+  },
+  "funFact": "I'm a Linux enthusiast who thinks the terminal is a perfectly valid IDE"
+}
+```
 
 ---
 
-## Onde me encontrar
+## 📊 By the numbers
 
-- Site: [viniciusneto.dev](https://www.viniciusneto.dev)  
+| Stat | Value |
+|------|-------|
+| 🗂️ Public repositories | 34 |
+| ⭐ Total stars earned | 6 |
+| 👥 Followers | 23 |
+| 📅 GitHub member since | October 2019 |
+| 🔥 Contributions last year | 88 |
+
+---
+
+## 🛠️ Current stack
+
+**Frontend:** React · Next.js · TypeScript · Tailwind CSS
+
+**Backend:** NestJS · Golang · Node.js · REST
+
+**Database:** PostgreSQL · Prisma
+
+**Infra & DevOps:** Docker · GitHub Actions · Linux · Nginx
+
+---
+
+## 🚀 What I'm building right now
+
+- **[fh6-telemetry](https://github.com/viunow/fh6-telemetry)** — UDP telemetry receiver for Forza Horizon 6, tracking lap times and sessions with a live browser dashboard. Stack: Node.js, WebSocket, Chart.js.
+
+---
+
+## 📬 Find me
+
+- Site: [viniciusneto.dev](https://www.viniciusneto.dev)
 - LinkedIn: [linkedin.com/in/viunow](https://linkedin.com/in/viunow)
 
 ---
-
-*Curioso por natureza, DevOps por necessidade, entusiasta de Linux por escolha.*
+*Curious by nature, DevOps-curious by necessity, Linux enthusiast by choice.*
