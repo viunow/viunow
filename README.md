@@ -78,7 +78,7 @@ I work mainly with **React**, **Next.js** and **TypeScript** on the front end, *
 ## 📬 Find me
 
 - Site: [viniciusneto.dev](https://www.viniciusneto.dev)
-- LinkedIn: [linkedin.com/in/viunow](https://linkedin.com/in/viunow)
+- LinkedIn: [linkedin.com/in/viunow](https://linkedin.com/in/viniciusneto)
 
 ---
 *Curious by nature, DevOps-curious by necessity, Linux enthusiast by choice.*
