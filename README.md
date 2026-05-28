@@ -1,16 +1,38 @@
-## Hi there 👋
+# Vinícius Neto
 
-<!--
-**viunow/viunow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Full Stack Developer** focado em construir produtos reais — de interfaces limpas até pipelines que não quebram às 3h da manhã.
 
-Here are some ideas to get you started:
+Trabalho principalmente com **React**, **Next.js** e **TypeScript** no front, **NestJS** e **Golang** no back, e **PostgreSQL** pra persistência. Tenho afinidade crescente com infraestrutura: Docker, CI/CD, Linux e tudo que faz o deploy ser menos uma roleta russa.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Stack atual
+
+**Frontend**  
+React · Next.js · TypeScript · Tailwind CSS
+
+**Backend**  
+NestJS · Golang · Node.js · REST
+
+**Banco de dados**  
+PostgreSQL · Prisma
+
+**Infra & DevOps**  
+Docker · GitHub Actions · Linux · Nginx
+
+---
+
+## O que estou construindo agora
+
+- **[fh6-telemetry](https://github.com/viunow/fh6-telemetry)** — receptor de telemetria UDP para Forza Horizon 6, com dashboard ao vivo no browser. Stack: Node.js, WebSocket, Chart.js.
+
+---
+
+## Onde me encontrar
+
+- Site: [viniciusneto.dev](https://www.viniciusneto.dev)  
+- LinkedIn: [linkedin.com/in/viunow](https://linkedin.com/in/viunow)
+
+---
+
+*Curioso por natureza, DevOps por necessidade, entusiasta de Linux por escolha.*
