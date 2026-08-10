@@ -2,7 +2,9 @@
 
 **Full Stack Developer** building real products, from clean UIs to backends that don't crash at 3am.
 
-I work mainly with **React**, **Next.js** and **TypeScript** on the front end, **NestJS** and **Golang** on the back end, and **PostgreSQL** for persistence. Growing interest in infrastructure: Docker, CI/CD, Linux and everything that makes deployments boring (in a good way).
+I work with **React**, **Next.js**, **Angular**, **TypeScript**, and **Vite** on the front end; **NestJS**, **Golang**, **C#**, and **.NET** on the back end; and **PostgreSQL**, **MySQL**, and **SQL Server** for persistence. I also have a growing interest in infrastructure: Docker, CI/CD, Linux, and everything that makes deployments boring (in a good way).
+
+Lately, I have been exploring **game development** with **C++**, **raylib**, and **Godot**, creating game mechanics, pixel-art experiences, and my own sounds and music with **jsfxr** and **BeepBox**.
 
 ---
 
@@ -16,27 +18,51 @@ I work mainly with **React**, **Next.js** and **TypeScript** on the front end, *
   "role": "Full Stack Developer",
   "company": "Valorizza",
   "website": "https://viniciusneto.dev",
-  "currentlyBuilding": "fh6-telemetry (Forza Horizon 6 UDP telemetry dashboard)",
-  "learning": ["DevOps", "Golang deeper patterns", "system design"],
-  "askMeAbout": ["React", "Next.js", "TypeScript", "NestJS", "Golang", "PostgreSQL"],
+  "currentlyBuilding": "Last Amen and other game experiments",
+  "alwaysLearning": [
+    "JS/TS",
+    "Logic",
+    "AI/Harness/Agents/Skills/Spec-Driven",
+    "Game development",
+    "C++",
+    "raylib",
+    "Godot",
+    "DevOps",
+    "system design"
+  ],
+  "askMeAbout": [
+    "React",
+    "Next.js",
+    "TypeScript",
+    "NestJS",
+    "Golang",
+    "PostgreSQL"
+  ],
   "technologies": {
     "frontend": {
-      "frameworks": ["React", "Next.js"],
+      "frameworks": ["React", "Next.js", "Angular"],
+      "tooling": ["Vite"],
       "styling": ["Tailwind CSS"],
-      "language": ["TypeScript"]
+      "language": ["TypeScript", "JavaScript"]
     },
     "backend": {
       "node": ["NestJS", "Node.js"],
       "go": ["Golang"],
-      "api": ["REST"]
+      "dotnet": ["C#", ".NET"],
+      "api": ["REST", "GraphQL", "SOAP"]
     },
     "databases": {
-      "relational": ["PostgreSQL"],
-      "orm": ["Prisma"]
+      "relational": ["PostgreSQL", "MySQL", "SQL Server"],
+      "orm": ["Drizzle", "Sequelize", "TypeORM"]
     },
     "devOps": {
       "tools": ["Docker", "Nginx", "GitHub Actions"],
       "os": ["Linux"]
+    },
+    "gameDev": {
+      "languages": ["C++"],
+      "enginesAndLibraries": ["raylib", "Godot"],
+      "audio": ["jsfxr", "BeepBox"]
     }
   },
   "funFact": "I'm a Linux enthusiast who thinks the terminal is a perfectly valid IDE"
@@ -45,33 +71,24 @@ I work mainly with **React**, **Next.js** and **TypeScript** on the front end, *
 
 ---
 
-## 📊 By the numbers
-
-| Stat | Value |
-|------|-------|
-| 🗂️ Public repositories | 34 |
-| ⭐ Total stars earned | 6 |
-| 👥 Followers | 23 |
-| 📅 GitHub member since | October 2019 |
-| 🔥 Contributions last year | 88 |
-
----
-
 ## 🛠️ Current stack
 
-**Frontend:** React · Next.js · TypeScript · Tailwind CSS
+**Frontend:** React · Next.js · TypeScript · Vite · Tailwind CSS
 
-**Backend:** NestJS · Golang · Node.js · REST
+**Backend:** NestJS · Node.js · Golang · REST
 
-**Database:** PostgreSQL · Prisma
+**Database:** PostgreSQL · MySQL · SQL Server · Drizzle · Sequelize · TypeORM
 
 **Infra & DevOps:** Docker · GitHub Actions · Linux · Nginx
+
+**Game development:** C++ · raylib · Godot · jsfxr · BeepBox
 
 ---
 
 ## 🚀 What I'm building right now
 
-- **[fh6-telemetry](https://github.com/viunow/fh6-telemetry)** — UDP telemetry receiver for Forza Horizon 6, tracking lap times and sessions with a live browser dashboard. Stack: Node.js, WebSocket, Chart.js.
+- **[Last Amen](https://github.com/viunow/last-amen)** — a fast-paced 2D action roguelike and hack-and-slash game about the last priest on Earth fighting demonic hordes. Built with C++ and raylib, with original 8-bit sound design made using jsfxr and BeepBox. **[Play it on itch.io](https://viunow.itch.io/last-amen).**
+- **More games and prototypes** — experimenting with raylib, Godot, C++, game feel, procedural systems, pixel art, and handcrafted audio.
 
 ---
 
@@ -79,6 +96,8 @@ I work mainly with **React**, **Next.js** and **TypeScript** on the front end, *
 
 - Site: [viniciusneto.dev](https://www.viniciusneto.dev)
 - LinkedIn: [linkedin.com/in/viniciusneto](https://linkedin.com/in/viniciusneto)
+- Game: [Last Amen on itch.io](https://viunow.itch.io/last-amen)
 
 ---
-*Curious by nature, DevOps-curious by necessity, Linux enthusiast by choice.*
+
+_Curious by nature, DevOps-curious by necessity, Linux enthusiast by choice, and always experimenting with new ways to build games._
